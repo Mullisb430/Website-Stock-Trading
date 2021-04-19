@@ -218,6 +218,10 @@ details details p {
     color: #fff;
 }
 
+#number {
+    text-decoration: none;
+}
+
 /* Footer Styles */
 
 footer {
